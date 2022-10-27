@@ -1,4 +1,6 @@
 # Docs @ Docker
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FTeedoh28%2Fdocker.github.io.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FTeedoh28%2Fdocker.github.io?ref=badge_shield)
+
 
 Welcome to the repo for our documentation. This is the source for
 [https://docs.docker.com/](https://docs.docker.com/).
@@ -359,3 +361,6 @@ is archived into a version-specific branch like `v17.09`, by doing the following
 ## Copyright and license
 
 Code and documentation copyright 2017 Docker, inc, released under the Apache 2.0 license.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FTeedoh28%2Fdocker.github.io.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FTeedoh28%2Fdocker.github.io?ref=badge_large)
